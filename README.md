@@ -2,13 +2,14 @@ Intel One Maven Hackathon
 
 Front End Code is attached above. Commands to be executed after cloning:
 
-npm install
-npm start
+1. npm install
+2. npm start
 Backend code: https://github.com/venkadesh004/Tech-Gig-backend
 
 Commands to be executed after cloning:
 
-python app.py
+1. python app.py
+
 Deep Learning Model Link: https://github.com/TLA-Dhakshesh/Tech-gig
 
 Team Members:
