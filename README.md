@@ -1,5 +1,7 @@
 Intel One Maven Hackathon
 
+Deep Learning Model Link: https://github.com/TLA-Dhakshesh/Tech-gig
+
 Front End Code :https://github.com/Dineshkumaar07/Tech-Gig-frontend
 
 Commands to be executed after cloning:
@@ -13,8 +15,6 @@ Commands to be executed after cloning:
 
 1. python app.py
 
-Deep Learning Model Link: https://github.com/TLA-Dhakshesh/Tech-gig
-
 Team Members:
 
 Dhakshesh T L A - dhakshesh@student.tce.edu
@@ -22,7 +22,7 @@ Dinesh Kumaar M S - dineshkumaar@student.tce.edu
 Venkadesh S - venkadesh@student.tce.edu
 
 Project Model details :
-1. This code uses implicitly OneDNN and OneMKL oneAPI Intel Librariesa and also uses TensorFlow and Keras to create a sentiment analysis model.
+1. This code uses implicitly OneDNN and OneMKL oneAPI Intel Libraries and also uses TensorFlow and Keras to create a sentiment analysis model.
 2. It first loads a dataset of reviews from a CSV file, and splits it into training and test sets.
 3. The text data is then tokenized and padded to a fixed length.
 4. A neural network model is defined using the Keras Sequential API, with an embedding layer, a global average pooling layer, two dense layers with ReLU activation and a   dropout layer, and a final sigmoid activation layer.
