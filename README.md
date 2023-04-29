@@ -1,6 +1,8 @@
 Intel One Maven Hackathon
 
-Front End Code is attached above. Commands to be executed after cloning:
+Front End Code :https://github.com/Dineshkumaar07/Tech-Gig-frontend
+
+Commands to be executed after cloning:
 
 1. npm install
 2. npm start
